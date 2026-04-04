@@ -24,4 +24,4 @@ p2 = PatoDoente.new
 p = Pessoa.new
 
 puts p.apertar_o_pato(p1)
-puts p.apertar_o_pato(p2)
+puts p.apertar_o_pato(p2) 
