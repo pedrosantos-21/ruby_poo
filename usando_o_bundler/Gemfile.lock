@@ -1,0 +1,25 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cpf_utils (1.3.1)
+    lerolero_generator (1.0.1)
+    nokogiri (1.19.2-x64-mingw-ucrt)
+      racc (~> 1.4)
+    racc (1.8.1)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  cpf_utils
+  lerolero_generator
+  nokogiri
+
+CHECKSUMS
+  cpf_utils (1.3.1) sha256=c2c77764adbce4b56aca99b4cb875ff627ab66f9fffb26270c09ea88327ec763
+  lerolero_generator (1.0.1) sha256=5754e81ce5c9efb37e08727cdfc63671e644e2dc4128f0d661a07882de269112
+  nokogiri (1.19.2-x64-mingw-ucrt) sha256=8ccf25eea3363a2c7b3f2e173a3400582c633cfead27f805df9a9c56d4852d1a
+  racc (1.8.1) sha256=4a7f6929691dbec8b5209a0b373bc2614882b55fc5d2e447a21aaa691303d62f
+
+BUNDLED WITH
+  4.0.10
